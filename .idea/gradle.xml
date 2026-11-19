@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/01.tokenizer" />
             <option value="$PROJECT_DIR$/02.embeddings" />
+            <option value="$PROJECT_DIR$/03.langchain4j" />
           </set>
         </option>
         <option name="myGradleHome" value="" />
